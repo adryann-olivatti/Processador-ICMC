@@ -83,7 +83,7 @@ Link da Ferramenta ICMC IDE:
 
 3- Agora e' so' programar a placa do Quartus
 
-4- Para clock MANUAL => SW[16]=1  e  mudar a SW[17] para dar o clock no circuito
+4- Para clock MANUAL => SW[16]= 0 e mudar a SW[17] para dar o clock no circuito
 
 # Para gerar o PROGRAMA:
 
